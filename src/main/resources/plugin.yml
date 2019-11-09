@@ -1,0 +1,8 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: com.github.okocraft.testpl.TestPL
+author: LazyGon
+
+# commands:
+#   command:
+#     description: Base Command of this plugin.
