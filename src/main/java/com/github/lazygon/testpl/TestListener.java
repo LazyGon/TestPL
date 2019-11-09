@@ -1,4 +1,4 @@
-package com.github.okocraft.testpl;
+package com.github.lazygon.testpl;
 
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;

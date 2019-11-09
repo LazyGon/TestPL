@@ -1,6 +1,6 @@
 name: ${project.artifactId}
 version: ${project.version}
-main: com.github.okocraft.testpl.TestPL
+main: com.github.lazygon.testpl.TestPL
 author: LazyGon
 
 # commands:
